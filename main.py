@@ -1,4 +1,4 @@
-import GUI
+from GUI import QtWidgets, Ui_MainWindow
 
 
 

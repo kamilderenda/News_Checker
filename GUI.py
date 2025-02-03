@@ -67,7 +67,7 @@ class Ui_MainWindow(object):
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
         # Connect the button click to the function
-        self.pushButton.clicked.connect(self.check_fake_news)
+        #self.pushButton.clicked.connect(self.check_fake_news)
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
