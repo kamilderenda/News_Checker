@@ -1,8 +1,5 @@
 from GUI import QtWidgets, Ui_MainWindow
 
-
-
-# Main block to run the app
 if __name__ == "__main__":
     import sys
     app = QtWidgets.QApplication(sys.argv)
