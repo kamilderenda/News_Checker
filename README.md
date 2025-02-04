@@ -28,7 +28,7 @@ pip install PyQt5 tensorflow numpy joblib nltk scikit-learn
 
 ## Clone the repository:
 
-git clone https://github.com/your-repo/fake-news-checker.git
+git clone https://github.com/kamilderenda/fake-news-checker.git
 cd fake-news-checker
 
 ## Download required NLTK Stopwords:
